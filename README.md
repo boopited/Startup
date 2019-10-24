@@ -1,2 +1,7 @@
 # Startup
-Android quick start
+
+Android demo in kotlin.
+
+- architecture components
+- dagger
+- github API
